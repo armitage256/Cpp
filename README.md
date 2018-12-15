@@ -14,6 +14,6 @@ Vídeos
 
 - Neural Networks Perceptron in C++
 
-	- Source:  https://github.com/armitage256/Cpp/tree/master/Video-8
+	- source:  https://github.com/armitage256/Cpp/tree/master/Video-8
 
-	- [video]: https://www.youtube.com/watch?v=AdOhn4dQQUI
+	- video: https://www.youtube.com/watch?v=AdOhn4dQQUI
