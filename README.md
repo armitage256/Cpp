@@ -10,9 +10,9 @@ Executar:
 
 $ ./main
 
-Vídeos
+Vídeos:
 
-- Neural Networks Perceptron in C++
+- Neural Networks Perceptron in C++ - Video 8
 
 	- source:  https://github.com/armitage256/Cpp/tree/master/Video-8
 
